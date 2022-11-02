@@ -1,6 +1,4 @@
 //Loosineh Hartoonian
-//CS 3010
-//Project 1
 
 import java.util.Arrays;
 import java.util.Scanner;
